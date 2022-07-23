@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Hihi :>>",
-    introTitle: 'Trần Minh ',
+    introTitle: 'Trần Minh Khuê',
     introDesc: `Cậu có biết tại sao lá cây lại màu xanh ?
     Cậu có biết tại sao gió đến rồi lại bay nhanh ?`,
     btnIntro: '^^HiHi^^',
